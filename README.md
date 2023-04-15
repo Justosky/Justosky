@@ -26,7 +26,7 @@ I will be specializing in BACKEND.</p>
 <div id="contact_me">
 <h2>CONTACT ME</h2>
 You can reach me through the following channels:
-<a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="www.whatsapp.com"/></a>
+- <a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="www.whatsapp.com"/></a>
 - Email
 - Linkedin
 - Twitter 
