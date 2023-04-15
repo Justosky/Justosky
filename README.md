@@ -7,9 +7,9 @@
 
 <h1>ABOUT ME</h1>
 
-👋 Hello, I am @JUSTICE a student of ALX_AFRICA studying software engineering.
+<p>👋Hello, I am JUSTICE a student of ALX_AFRICA from Nigeria studying software engineering.
 I will be specializing in BACKEND.
-Pronouns He/Him.
+Pronouns He/Him.</p>
 
 MY AREA OF COMPETENCE
 
