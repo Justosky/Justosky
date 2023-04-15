@@ -26,11 +26,11 @@ I will be specializing in BACKEND.</p>
 <div id="contact_me">
 <h2>CONTACT ME</h2>
 You can reach me through the following channels:
-<br>- <a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="www.whatsapp.com"/></a>
-- Email
-- Linkedin
-- Twitter 
-- Facebook
+<br><br><a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="www.whatsapp.com"/></a>
+<br>Email
+<br>Linkedin
+<br>Twitter 
+<br>Facebook
 </div>
 <!---
 A special repository for changing the look and feel of my profile page
