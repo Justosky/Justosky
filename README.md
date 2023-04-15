@@ -2,7 +2,13 @@
 <html>
 
 <head>
-<title>JUSTICE GITHUB PROFILE</title>
+<meta charset="UTF-8">
+    <title>Page Title</title>
+    <meta name="description" content="A brief description of the page">
+    <meta name="keywords" content="Uzor,Justice,Onyeka, Nigerian Software Enginner, ALX student,Inovative,Tech savvy">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="">
+    <script src=""></script>
 </head>
 
 <h1>ABOUT ME</h1>
