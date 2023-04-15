@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head><title>JUSTICE GITHUB PROFILE</title></head>
-<html>
 
-ABOUT ME
+<head>
+<title>JUSTICE GITHUB PROFILE</title>
+</head>
+
+<h1>ABOUT ME</h1>
 
 👋 Hello, I am @JUSTICE a student of ALX_AFRICA studying software engineering.
 I will be specializing in BACKEND.
