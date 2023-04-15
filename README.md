@@ -3,7 +3,6 @@
 
 <head>
 <meta charset="UTF-8">
-    <title>Page Title</title>
     <meta name="description" content="A brief description of the page">
     <meta name="keywords" content="Uzor,Justice,Onyeka, Nigerian Software Enginner, ALX student,Inovative,Tech savvy">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,21 +15,21 @@
 <p>👋Hello, I am JUSTICE a student of ALX_AFRICA studying software engineering.
 I will be specializing in BACKEND.</p>
 </div>
-
+<hr>
 <div id="my_area_of_competence">
 <h2>MY AREA OF COMPETENCE</h2>
 
 | HTML | CSS | C Programming | Shell scripting |
 
 </div>
-
+<hr>
 <div id="i_am_interested">
 <h2> I AM INTERESTED </h2>
 
 - In the development and maintenance of | web servers and apps | multi-platform application program development | And Data Analysis |
 - I am looking forward to participate on innovative projects with great minds like you, to enable me build upon my critical thinking skills. 
 </div>
-
+<hr>
 <div id="contact_me">
 <h2>CONTACT ME</h2>
 
