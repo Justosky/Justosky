@@ -11,35 +11,26 @@
 
 <div id="about_me">
 <h1>ABOUT ME</h1>
-<hr>
 <p>👋Hello, I am JUSTICE a student of ALX_AFRICA studying software engineering.
 I will be specializing in BACKEND.</p>
 </div>
-<hr>
 <div id="my_area_of_competence">
 <h2>MY AREA OF COMPETENCE</h2>
-<hr>
 | HTML | CSS | C Programming | Shell scripting |
-<hr>
 </div>
 <div id="i_am_interested">
 <h2> I AM INTERESTED </h2>
-<hr>
 - In the development and maintenance of | web servers and apps | multi-platform application program development | And Data Analysis |
 - I am looking forward to participate on innovative projects with great minds like you, to enable me build upon my critical thinking skills. 
-<hr>
 </div>
 <div id="contact_me">
 <h2>CONTACT ME</h2>
-<hr>
-I can be reached through the following channels:
-
+You can reach me through the following channels:
 <a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="www.whatsapp.com"/></a>
 - Email
 - Linkedin
 - Twitter 
 - Facebook
-<hr>
 </div>
 <!---
 A special repository for changing the look and feel of my profile page
