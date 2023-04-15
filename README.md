@@ -16,6 +16,8 @@ I AM INTERESTED
 CONTACT ME
 
 I can be reached through the following channels:
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 - Email
 - Linkedin
 - Twitter 
