@@ -1,16 +1,51 @@
-header {
-  background-color: #333;
-  color: white;
-  padding: 20px;
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
 }
 
+/* Style the h1 tag */
 h1 {
-  margin: 0;
+  font-size: 32px;
+  text-align: center;
+  color: #2a2a2a;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
-main {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+/* Style the h2 tags */
+h2 {
+  font-size: 24px;
+  color: #3d3d3d;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
+
+/* Style the div tags */
+div {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Set different styles for each div */
+div:nth-child(1) {
+  background-color: #f7f7f7;
+  color: #2a2a2a;
+}
+
+div:nth-child(2) {
+  background-color: #ebebeb;
+  color: #3d3d3d;
+}
+
+div:nth-child(3) {
+  background-color: #f1f1f1;
+  color: #333;
+}
+
+/* Set different styles for each h2 */
+h2:nth-child(1) {
 

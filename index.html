@@ -6,7 +6,7 @@
     <meta name="description" content="A brief description of the page">
     <meta name="keywords" content="Uzor,Justice,Onyeka, Nigerian Software Enginner, ALX student,Inovative,Tech savvy">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="README.css">
+    <link rel="stylesheet" href="index.css">
 </head>
 
 <div id="about_me">
