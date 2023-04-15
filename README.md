@@ -21,11 +21,13 @@ I AM INTERESTED
 CONTACT ME
 
 I can be reached through the following channels:
+
+<a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="www.whatsapp.com" /></a>
 - Email
 - Linkedin
 - Twitter 
 - Facebook
-
+https://wa.me/
 <!---
 A special repository for changing the look and feel of my profile page
 --->
