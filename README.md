@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><title>JUSTICE GITHUB PROFILE</title></head>
+<html>
+
 ABOUT ME
 
 👋 Hello, I am @JUSTICE a student of ALX_AFRICA studying software engineering.
@@ -24,4 +29,4 @@ I can be reached through the following channels:
 <!---
 A special repository for changing the look and feel of my profile page
 --->
-
+</html>
