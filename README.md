@@ -17,7 +17,7 @@ CONTACT ME
 
 I can be reached through the following channels:
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href"www.whatsapp.com" />
 - Email
 - Linkedin
 - Twitter 
