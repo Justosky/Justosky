@@ -30,7 +30,7 @@ You can reach me through the following channels:
 <br><a href="https://www.linkedin.com/in/justosky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
 <br><a href="https://twitter.com/just0sky"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"</a>
 <br><a href="https://wa.me/+2348031950483"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-<br>Email 
+<br><a href="justosky2011@yahoo.com"><img src="https://img.shields.io/badge/Yahoo!-6001D2.svg?style=for-the-badge&logo=Yahoo!&logoColor=white"</a> 
 </div>
 <!---
 A special repository for changing the look and feel of my profile page
